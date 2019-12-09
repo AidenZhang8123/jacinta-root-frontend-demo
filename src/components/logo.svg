@@ -1,0 +1,24 @@
+
+<svg width="150px" height="126px" viewBox="0 0 150 126" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo">
+            <polygon id="Path" fill="#FF7423" fill-rule="evenodd" points="4 1 43.0415613 43.8907293 52 21"></polygon>
+            <polyline id="Path" fill="#FF8800" fill-rule="evenodd" points="75.25 11.5 52 21 43.0415613 43.8907293 75 79 75 11.5"></polyline>
+            <polygon id="Path" fill="#FF7423" fill-rule="evenodd" points="75 79 107.015894 44.0735702 98 21 75 11.5"></polygon>
+            <polyline id="Path" fill="#FF8800" fill-rule="evenodd" points="98 21 107.015894 44.0735702 146.5 1 98 21"></polyline>
+            <polygon id="Path-2" fill="#FF7423" fill-rule="evenodd" points="0 0 75 82.5 150 0 127 55 118 58 148 54 75 125.5 2 54 33 58 24 55"></polygon>
+            <polygon id="Path-3" fill="#000000" fill-rule="evenodd" points="37 47 60 72 43 70 46 67"></polygon>
+            <polygon id="Path-3" fill="#000000" fill-rule="evenodd" transform="translate(101.500000, 59.500000) scale(-1, 1) translate(-101.500000, -59.500000) " points="90 47 113 72 96 70 99 67"></polygon>
+            <polygon id="Path-4" fill="#000000" fill-rule="evenodd" points="43 74 75 75.5 107 74 75 123"></polygon>
+            <path d="M104,88 C104,95.734809 104,104.401476 104,120 L75,75.8748169 L98,77 L104,88 Z" id="Path-4" fill="#FED078" fill-rule="evenodd" transform="translate(89.500000, 97.937408) scale(-1, 1) translate(-89.500000, -97.937408) "></path>
+            <path d="M75,88 C75,93.1565394 75,103.823206 75,120 L46,75.8748124 L69,77 L75,88 Z" id="Path-4" fill="#FFE0A3" fill-rule="evenodd"></path>
+            <path d="M97.9723287,67.5836229 C99.9612577,67.5836229 101.573603,65.9712774 101.573603,63.9823484 C101.573603,61.9934195 99.9612577,60.381074 97.9723287,60.381074" id="Oval" fill="#FFFFFF" fill-rule="evenodd" transform="translate(99.772966, 63.982348) rotate(43.000000) translate(-99.772966, -63.982348) "></path>
+            <path d="M47.2696556,67.5881691 C49.5584139,67.5881691 51.413819,65.7327639 51.413819,63.4440056 C51.413819,61.1552473 49.5584139,59.2998422 47.2696556,59.2998422" id="Oval" fill="#FFFFFF" fill-rule="evenodd" transform="translate(49.341737, 63.444006) scale(-1, 1) rotate(43.000000) translate(-49.341737, -63.444006) "></path>
+            <polygon id="Path-5" fill="#000000" fill-rule="evenodd" points="69 76 81 76 75 88"></polygon>
+            <path d="M46.9581275,76.4222874 L75,119.089624 L103.041872,76.4222874 L81.3046189,77.4856957 L75,89.0441637 L68.6953811,77.4856957 L46.9581275,76.4222874 Z" id="Path-6" stroke="#FFFFCF" stroke-width="1"></path>
+        </g>
+    </g>
+</svg>
